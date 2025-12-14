@@ -1,0 +1,5 @@
+{
+  "name": "Smart Pallet Packer ",
+  "description": "Calculate optimal pallet loading configurations from Excel inputs. Supports 1180x980mm pallets with auto-centering and stability visualization.",
+  "requestFramePermissions": []
+}
